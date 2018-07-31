@@ -1,24 +1,24 @@
 # _My First Webpage_
 
-#### _This is a very simple webpage, 07/30/2018_
+#### This is a very simple webpage, 07/30/2018
 
-####By _** Skye Nguyen and David Mortkowitz**_
+#### By _Skye Nguyen and David Mortkowitz_
 
 ## Description
 
-_This is a webpage with a list of things that we will learn at Epicodus in the next 27 weeks. The purpose of this webpage is to demonstrate simple HTML elements such as block elements, in-line elements._
+This is a webpage with a list of things that we will learn at Epicodus in the next 27 weeks. The purpose of this webpage is to demonstrate simple HTML elements such as block elements, in-line elements.
 
 ## Setup/Installation Requirements
 
-_Clone this repository by using Terminal command:_
+1. Clone this repository by using Terminal command:
 *git clone https://github.com/sn31/my-first-webpage*
 
-_Change into the work directory using Terminal command:_
+2. Change into the work directory using Terminal command:
 *cd my-first-webpage*
 
-_Open the project in your preferred text editor._
+3. Open the project in your preferred text editor.
 
-_To run the webpage, open it in a any browser._
+4. To run the webpage, open it in a any browser.
 
 ## Known Bugs
 
@@ -37,6 +37,6 @@ Please contact us at *blank@blank.com* for more information.
 
 ### License
 
-####Copyright (c) 2018 Skye Nguyen, David Mortkowitz
+#### Copyright (c) 2018 Skye Nguyen, David Mortkowitz
 
-####This software is licensed under the MIT license.
+#### This software is licensed under the MIT license.
